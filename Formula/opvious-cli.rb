@@ -1,4 +1,4 @@
-class OpviousCLI < Formula
+class OpviousCli < Formula
   desc "A CLI for solving linear, mixed-integer, and quadratic optimization models"
   homepage "https://www.opvious.io/"
   license "Apache-2.0"
