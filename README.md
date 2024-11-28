@@ -3,8 +3,8 @@
 This is the official [Homebrew][] tap for [Opvious][].
 
 ```sh
-brew install opvious/tap/opvious # Install
-brew uninstall opvious # Uninstall
+brew install opvious/tap/opvious-cli # Install CLI
+brew uninstall opvious-cli # Uninstall
 ```
 
 [Homebrew]: https://brew.sh

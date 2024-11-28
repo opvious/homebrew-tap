@@ -1,5 +1,5 @@
-class Opvious < Formula
-  desc "An SDK for solving linear, mixed-integer, and quadratic optimization models"
+class OpviousCLI < Formula
+  desc "A CLI for solving linear, mixed-integer, and quadratic optimization models"
   homepage "https://www.opvious.io/"
   license "Apache-2.0"
   version "0.1.0"
